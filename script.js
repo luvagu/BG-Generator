@@ -22,7 +22,7 @@ function setGradient() {
 	} else {
 		body.style.background = 'radial-gradient(' + color1.value + ' , ' + color2.value + ' ) no-repeat center center fixed';
 	}
-	css.textContent = body.style.background + ';';
+	css.textContent = 'background: ' + body.style.background + ';';
 }
 
 function getRandomColor() {
