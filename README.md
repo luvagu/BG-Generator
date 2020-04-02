@@ -1,4 +1,4 @@
 # BG-Generator
 ZTM Lesson 133. Exercise: Baground generator
 
-Generate a Linear or Radial background with this tool and copy the generated css for use in your project.
+In this little challenge I generate a visual Linear or Radial background in which you copy the generated css for use in your project.
